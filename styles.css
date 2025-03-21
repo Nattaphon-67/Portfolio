@@ -30,8 +30,8 @@ body {
 
 /* Header */
 header {
-  background: #222;
-  color: #06e5fa;
+  background: #e09292;
+  color: #e76b6b;
   padding: 20px 0;
 }
 
@@ -49,7 +49,7 @@ nav ul li {
 }
 
 nav ul li a {
-  color: #a7901f;
+  color: #401ec9;
   font-weight: bold;
 }
 
